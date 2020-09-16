@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Dada 👋
+
+![](https://komarev.com/ghpvc/?username=dada8397&color=ff69b4&label=　誰來我家　)
+
+---
+
+![](https://raw.githubusercontent.com/dada8397/dada8397/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/dada8397/dada8397/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/dada8397/dada8397/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/dada8397/dada8397/master/profile-summary-card-output/solarized_dark/3-stats.svg)
+
 
 <!--
 **dada8397/dada8397** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
